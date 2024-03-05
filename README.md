@@ -1,6 +1,6 @@
 # -Predicting-the-sale-Price-of-Bulldozers-using-Machine-Learning
 
-![Uploading Bulldozer Thumbnail.png…]()
+![Bulldozer Thumbnail](https://github.com/RavinaKarnik/-Predicting-the-sale-Price-of-Bulldozers-using-Machine-Learning/assets/130289037/1c087ad9-48c0-4393-a4f6-268887eb7a31)
 
 
 In this notebook,we're going to go through machine learning project with the goal of predicting the sale price of bulldozers.
