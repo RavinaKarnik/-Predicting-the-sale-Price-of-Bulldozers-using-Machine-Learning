@@ -1,4 +1,8 @@
 # -Predicting-the-sale-Price-of-Bulldozers-using-Machine-Learning
+
+![Uploading Bulldozer Thumbnail.png…]()
+
+
 In this notebook,we're going to go through machine learning project with the goal of predicting the sale price of bulldozers.
 
 ## 1. Problem Definition
